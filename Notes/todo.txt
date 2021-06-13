@@ -1,0 +1,11 @@
+data types
+variables
+
+
+functions
+**kwargs
+unpacking
+
+files
+
+oop
