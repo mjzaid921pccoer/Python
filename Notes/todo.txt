@@ -1,11 +1,22 @@
-data types
-variables
-
-
-functions
-**kwargs
-unpacking
-
-files
-
-oop
+Installation
+Introduction, Jupyter Notebook Intro[shift+Tab, magic commands, etc] User Manual check out the [Bryn Mawr College Computer Science Guide](https://jupyter.brynmawr.edu/services/public/dblank/Jupyter%20Notebook%20Users%20Manual.ipynb).
+Basic Terminologies(operators,loops,if-else,basic built-in function,Variables)
+DataType-Numeric - Advance
+DataType-String - Advance 
+DataType-List - Advance 
+DataType-Tuple - Advance
+Datatype-Dictionary - Advance
+Datatype-Set - Advance [m here]
+Build-in functions, Underscore
+Function
+Generator, Iterator - Generator comprehension
+Function arguments & Decorators, Namespace Scope, Packing Unpacking, Command Line Arguement
+Exception Handlling, Testing
+OOP - Advance
+Packages [random, collections, datatime, timeit, re, io]
+Files : with statement
+Multithreading
+Database [MySQL, PostgressSQL, MongoDB]
+DataScience [Numpy, Pandas, matplotlib, Scipy]
+--------------------------------------------------------------------------------------------------------------------------------------------
+https://www.tutorialspoint.com/python3/python_tutorial.pdf
