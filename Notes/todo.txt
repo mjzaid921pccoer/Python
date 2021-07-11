@@ -6,17 +6,19 @@ DataType-String - Advance
 DataType-List - Advance 
 DataType-Tuple - Advance
 Datatype-Dictionary - Advance
-Datatype-Set - Advance [m here]
-Build-in functions, Underscore
+Datatype-Set - Advance 
+Build-in functions, Underscore [m here]
 Function
 Generator, Iterator - Generator comprehension
-Function arguments & Decorators, Namespace Scope, Packing Unpacking, Command Line Arguement
+Function arguments, Namespace Scope, Packing Unpacking, Command Line Arguement
 Exception Handlling, Testing
-OOP - Advance
+OOP - [Basics, Decorators, Advance: Encapsulation, Abstraction, Inheritance, Polymorphism]
 Packages [random, collections, datatime, timeit, re, io]
 Files : with statement
+Modules [https://www.tutorialspoint.com/object_oriented_python/object_oriented_python_tutorial.pdf]
 Multithreading
 Database [MySQL, PostgressSQL, MongoDB]
 DataScience [Numpy, Pandas, matplotlib, Scipy]
 --------------------------------------------------------------------------------------------------------------------------------------------
 https://www.tutorialspoint.com/python3/python_tutorial.pdf
+
